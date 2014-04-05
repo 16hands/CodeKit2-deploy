@@ -10,7 +10,6 @@ It pretty rough, but useful none the less, I have it installed in /usr/local/bin
 
 `
 chmod +x /usr/local/bin/codekit-deploy.sh
-
 `
 
 its expects one arg which is the remote (in rsync ssh form) for target directory,
